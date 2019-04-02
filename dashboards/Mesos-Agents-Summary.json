@@ -1746,7 +1746,7 @@
         "name": "host",
         "options": [],
         "query": "label_values(mesos_slave_uptime_secs, host)",
-        "refresh": 1,
+        "refresh": 2,
         "regex": "",
         "skipUrlSync": false,
         "sort": 0,
